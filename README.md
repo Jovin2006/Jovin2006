@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**Jovin2006/Jovin2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ..<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:00BFFF&height=200&section=header&text=Nibshan%20Jovin%20Joseph&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20in%20the%20Making%20%7C%20ML%20Enthusiast%20%7C%20Athlete&descAlignY=58&descSize=18&animation=fadeIn" />
 
@@ -140,6 +131,119 @@ public class NibshanJovinJoseph {
 
 ---
 
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Neuro Compiler</h3>
+      <p><b>GUI-Based Multi-Language Compiler Platform</b></p>
+      <ul>
+        <li>Built a GUI platform supporting execution of multiple programming languages</li>
+        <li>Designed an interactive interface to improve coding accessibility for students</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GUI-Tkinter-blue?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Simple Python Chatbot</h3>
+      <p><b>Conversational AI via CLI</b></p>
+      <ul>
+        <li>Simulates basic human conversation using keyword recognition</li>
+        <li>Predefined response flows with a clean command-line interface</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NLP-Keyword%20Matching-green?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📁 Auto File Organizer</h3>
+      <p><b>GUI-Based Automation Tool</b></p>
+      <ul>
+        <li>Automates file categorization and organization using Python</li>
+        <li>Includes progress tracking and reduces manual file handling</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Automation-GUI-orange?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 Tic Tac Toe with AI</h3>
+      <p><b>Classic Game vs AI Opponent</b></p>
+      <ul>
+        <li>Python Tic Tac Toe with an intelligent AI opponent</li>
+        <li>Handles player moves, win conditions, and interactive gameplay</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AI-Game%20Logic-red?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 Movie Recommendation AI</h3>
+      <p><b>Personalized Film Suggester</b></p>
+      <ul>
+        <li>Recommends movies based on user preferences using data filtering</li>
+        <li>Matches films with similar attributes for smart suggestions</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ML-Recommendation-purple?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💰 Personal Finance Tracker</h3>
+      <p><b>AI-Powered Budget Manager</b></p>
+      <ul>
+        <li>Tracks income, expenses, and savings with automated categorization</li>
+        <li>Visualizes spending patterns with a user-friendly interface</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AI-Finance%20Analytics-gold?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📚 Currently Learning
+
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <h4>🤖 AI & Data Science</h4>
+      <ul>
+        <li>Machine Learning Algorithms</li>
+        <li>Data Visualization</li>
+        <li>Feature Engineering</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <h4>☁️ Cloud Computing</h4>
+      <ul>
+        <li>AWS Fundamentals</li>
+        <li>Cloud Deployment</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <h4>🌐 Backend Development</h4>
+      <ul>
+        <li>REST APIs</li>
+        <li>Server-side Development</li>
+        <li>Database Integration</li>
+      </ul>
+    </td>
+    <td width="25%" valign="top">
+      <h4>💻 Core CS</h4>
+      <ul>
+        <li>Data Structures & Algorithms</li>
+        <li>Networking Basics</li>
+        <li>System Design Concepts</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🌱 What I'm Working On
 
 ```python
@@ -161,10 +265,4 @@ current_focus = {
 
 *Let's build something intelligent together — reach out anytime!*
 
-</div>.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
