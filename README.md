@@ -108,10 +108,10 @@ public class NibshanJovinJoseph {
 
 | 🎖️ Certification | 🏛️ Platform |
 |---|---|
-| 🤖 Generative AI Fundamentals (Academy Accreditation) | Databricks |
+| 🤖 Generative AI Fundamentals (Academy Accreditation) | Databricks / Online|
 | 🧠 Introduction to Generative AI | AWS / Online| |
 | ☁️ Introduction to Cloud 101 | AWS / Online |
-| 🐍 Basics of Python | Online |
+| 🐍 Basics of Python | Infosys SpringBoard / Online |
 | 💼 Employability Skills — Job Ready | NASSCOM / Online |
 | 🎰 Machine Learning Foundations | AWS/Online|
 ---
