@@ -116,20 +116,7 @@ public class NibshanJovinJoseph {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=Jovin2006&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Jovin2006&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Jovin2006&theme=shadow_green&hide_border=true" height="180"/>
-
-</div>
-
----
+ 
 
 ## 🚀 Projects
 
