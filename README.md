@@ -112,7 +112,7 @@ public class NibshanJovinJoseph {
 | 🧠 Introduction to Generative AI | AWS / Online| |
 | ☁️ Introduction to Cloud 101 | AWS / Online |
 | 🐍 Basics of Python | Infosys SpringBoard / Online |
-| 💼 Employability Skills — Job Ready | NASSCOM / Online |
+| 💼 Employability Skills — Job Ready | WadhwaniFoundaton / Online |
 | 🎰 Machine Learning Foundations | AWS/Online|
 ---
 
