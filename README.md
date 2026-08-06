@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:00BFFF&height=200&section=header&text=Nibshan%20Jovin%20Joseph&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20in%20the%20Making%20%7C%20ML%20Enthusiast%20%7C%20Athlete&descAlignY=58&descSize=18&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=🤖+Building+Intelligent+AI+Systems;☁️+Exploring+AWS+%26+Cloud+Technologies;🧠+Generative+AI+%26+Machine+Learning;🏃+Athlete+who+codes+with+discipline)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=🤖+Building+Intelligent+AI+Systems;☁️+Exploring+AWS+%26+Cloud+Technologies;🧠+Generative+AI+%26+Machine+Learning;🏃+Athlete )](https://git.io/typing-svg)
 
 <br/>
 
